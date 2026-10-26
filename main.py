@@ -1,6 +1,7 @@
-#Programa de ChatGPT
+#Programa con Requerimientos  de usuario
 
-estacionamiento = 5
+estacionamiento = 100 #El  cliente quiere solo 100 lugares de 
+estacionamiento 
 autos = 0
 
 while True:
